@@ -14,3 +14,11 @@ A simple and responsive weather application built with **React.js** that allows 
 
 ---
 
+## 🛠️ Technologies Used
+
+- React.js
+- Material UI
+- OpenWeatherMap API
+- CSS for styling
+
+---
