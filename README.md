@@ -37,4 +37,4 @@ A simple and responsive weather application built with **React.js** that allows 
 - 🌍 Country
 - 💧 Humidity
 - 💨 Wind Speed
-If the input is invalid or empty, an error message will be shown.
+- If the input is invalid or empty, an error message will be shown.
