@@ -13,7 +13,7 @@ export default function InfoBox({ info }) {
     "https://images.unsplash.com/photo-1505533321630-975218a5f66f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
     const HOT_URL=
-    "https://media.istockphoto.com/id/2108000291/photo/wooden-outdoor-thermometer-background-scorching-summer-sun-and-blue-sky.jpg?s=1024x1024&w=is&k=20&c=YZv3u1y0NeROVunZq5MbuFYjn9eSTA2PM8HNwTcCcDo="
+    "https://media.istockphoto.com/id/824845572/photo/thermometer-sun-high-degres-hot-summer-day-high-summer-temperatures.webp?a=1&b=1&s=612x612&w=0&k=20&c=DPDwtq156djUSKSd57TR23BmU4vzC8xqolwMkqHCdfU="
     const COLD_URL=
     "https://images.unsplash.com/photo-1564314968303-86c5df2b9a4c?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     const RAIN_URL=
